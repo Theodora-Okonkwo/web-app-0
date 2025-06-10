@@ -1,1 +1,1 @@
-# web-app-0
+The sample web application was deployed to Azure App Services, and a CI/CD pipeline was set up using GitHub Actions. This pipeline automatically deploys the app to Azure whenever changes are pushed to the main branch, ensuring seamless updates and deployment.
